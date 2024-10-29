@@ -14,3 +14,9 @@ The dataset used in this project is titled [Sales Data.csv ](https://www.kaggle.
    1. For Data Cleaning 
    2. For Data Analysis 
    3. For Data Visualization 
+
+### Data Cleaning and Preparation 
+In the initial phase of data cleaning and preparations, I performed the following actions 
+- Data loading and inspection
+- Handling missing values
+- Data cleaning and formatting 
