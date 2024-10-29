@@ -8,3 +8,9 @@ This project aims to provide insights into the sales performance of an e-commerc
 
 ### Data Sources
 The dataset used in this project is titled [Sales Data.csv ](https://www.kaggle.com), which contains records of sales transactions including details such as product, region, quantity, unit price, order date, customer feedback, sales channels and sales Reps
+
+### Tools Used
+- Microsoft Excel
+   1. For Data Cleaning 
+   2. For Data Analysis 
+   3. For Data Visualization 
