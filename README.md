@@ -19,4 +19,13 @@ The dataset used in this project is titled [Sales Data.csv ](https://www.kaggle.
 In the initial phase of data cleaning and preparations, I performed the following actions 
 - Data loading and inspection
 - Handling missing values
-- Data cleaning and formatting 
+- Data cleaning and formatting
+
+### Exploratory Data Analysis (EDA)
+- 1. Total Sales per Product Category
+- 2. Sales Transactions in Each Region
+- 3. Top Selling Product
+- 4. Revenue Per Product
+- 5. Monthly Sales for Year 2024
+- 6. Top 5 Customers
+- 7. Total sales by Day
