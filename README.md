@@ -22,10 +22,10 @@ In the initial phase of data cleaning and preparations, I performed the followin
 - Data cleaning and formatting
 
 ### Exploratory Data Analysis (EDA)
-- 1. Total Sales per Product Category
-- 2. Sales Transactions in Each Region
-- 3. Top Selling Product
-- 4. Revenue Per Product
-- 5. Monthly Sales for Year 2024
-- 6. Top 5 Customers
-- 7. Total sales by Day
+- Total Sales per Product Category
+- Sales Transactions in Each Region
+- Top Selling Product
+- Revenue Per Product
+- Monthly Sales for Year 2024
+- Top 5 Customers
+- Total sales by Day
