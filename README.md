@@ -7,6 +7,8 @@ Collection of projects demonstrating skills in data analysis, visualization, and
 
 [Data Sources](#Data-Sources)
 
+[Tools Used](#Tools-Used)
+
 [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
 
 [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
