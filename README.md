@@ -1,4 +1,4 @@
-## Ecommerce-Sales-Analysis
+## Ecommerce Sales Analysis
 Data analysis project focused on exploring e-commerce sales trends, identifying top-performing products, and analyzing customer purchasing behavior to derive actionable insights. Includes data cleaning, visualization, and statistical analysis using Excel
 
 ### Project Title: E-commerce Sales Analysis 
