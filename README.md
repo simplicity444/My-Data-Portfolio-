@@ -62,3 +62,8 @@ Used a Pivot Table with "Customer Name" as Rows and "Sales Amount" as Values (se
 
 Used a Pivot Table with "Date" in Rows and "Sales Amount" as Values (set to "Sum").
 
+### Data Visualization 
+
+![CAPSTONE DASHBOARD 1](https://github.com/user-attachments/assets/de2e0f4a-f515-4c15-bded-787cdfb661ff)
+![CAPSTONE DASHBOARD 2](https://github.com/user-attachments/assets/b80daca8-1688-403d-8bb2-7edbaeccf7f7)
+
