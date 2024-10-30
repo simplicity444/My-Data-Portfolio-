@@ -3,6 +3,18 @@ Collection of projects demonstrating skills in data analysis, visualization, and
 
 ### Project Title: E-commerce Sales Analysis 
 
+[Project Overview](#Project-Overview) 
+
+[Data Sources](#Data-Sources)
+
+[Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
+
+[Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
+
+[Data Analysis](#Data-Analysis)
+
+[Data Visualization](#Data-Visualization)
+
 ### Project Overview 
 This project aims to provide insights into the sales performance of an e-commerce platform by analyzing key metrics such as revenue, customer demographics, sales channels,product categories, seasonal trends, and customer behavior. The analysis helps identify high-performing products, peak sales periods, and customer segments, enabling data-driven decisions to improve sales strategy and customer satisfaction.
 
